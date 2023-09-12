@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.test.knowmadmod</groupId>
-	<artifactId>price-catalog-reviewed</artifactId>
+	<artifactId>price-catalog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>price-catalog-reviewed</name>
 	<description>Demo project for Spring Boot</description>
